@@ -28,3 +28,12 @@ The system uses Natural Language Processing (NLP) techniques to convert text int
 - JSON (for dataset storage)
 
 📂 Project Structure
+
+faq_chatbot/
+│── data/
+│ └── faq.json
+│── src/
+│ └── chatbot.py
+│── app.py
+│── requirements.txt
+│── README.md
