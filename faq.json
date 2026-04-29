@@ -1,0 +1,7 @@
+[
+    {"question": "What is AI?", "answer": "AI stands for Artificial Intelligence."},
+    {"question": "What is machine learning?", "answer": "Machine learning is a subset of AI."},
+    {"question": "What is Python?", "answer": "Python is a programming language."},
+    {"question": "How to install Python?", "answer": "Download it from python.org and install."},
+    {"question": "What is data science?", "answer": "Data science involves analyzing data to gain insights."}
+]
